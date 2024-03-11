@@ -6,6 +6,7 @@ import org.springframework.boot.runApplication
 @SpringBootApplication
 class CicdApplication
 
+//test
 fun main(args: Array<String>) {
     runApplication<CicdApplication>(*args)
 }
